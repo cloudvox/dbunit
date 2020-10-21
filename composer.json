@@ -1,5 +1,5 @@
 {
-    "name": "bradmurray-dt/dbunit",
+    "name": "phpunit/dbunit",
     "description": "DbUnit fork supporting PHPUnit 8/9",
     "type": "library",
     "keywords": [
