@@ -40,7 +40,7 @@ class DefaultTester extends AbstractTester
      *
      * @return Connection
      */
-    public function getConnection()
+    public function getConnection(): \PHPUnit\DbUnit\Database\Connection
     {
         return $this->connection;
     }
